@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/n00173464/Desktop/Collisions/Collisions/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/n00173464/Desktop/Collisions/Collisions/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/n00173464/Desktop/Collisions/Collisions/Content/Collisions.umap",
+				"C:/Users/n00173464/Desktop/Collisions/Collisions/Content/Sphere_Blueprint.uasset"
 			]
 		}
 	]
